@@ -12,9 +12,9 @@ El `Agente` es una aplicación para Windows, Linux y macOS que permite convertir
 
 El agente está disponible para los principales sistemas operativos:
 
-- [Conversion CFDI a PDF en Windows](https://redoc.mx/docs/agente/windows)
-- [Conversion CFDI a PDF en macOS](https://redoc.mx/docs/agente/macos)
-- [Conversion CFDI a PDF en Linux](https://redoc.mx/docs/agente/linux)
+- [Conversion CFDI a PDF en Windows](https://redoc.mx/docs/agente/windows/)
+- [Conversion CFDI a PDF en macOS](https://redoc.mx/docs/agente/macos/)
+- [Conversion CFDI a PDF en Linux](https://redoc.mx/docs/agente/linux/)
 
 
 ## Términos de uso y licencia
