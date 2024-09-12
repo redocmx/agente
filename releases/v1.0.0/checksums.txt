@@ -1,0 +1,7 @@
+0597cd8b27a09bbc00cf6ef53c020f8a3d1e5b1617e0bd1fcbfd18c751c2a09a  v1.0.0/x86_64-pc-windows-gnu/redoc-agente-setup.exe
+c629ea7ec1e1c1460bfc084ef9aecf1bcf81708b1d183ee01b7c1890cf946d9d  v1.0.0/x86_64-pc-windows-gnu/redoc-agente.exe
+b67fd7af1ce792d6f929cddc10317130ed436c02ff683da8c12ee0add03bf101  v1.0.0/x86_64-apple-darwin/redoc-agente
+eb36f3deee38118829e512dcb7e1eb83847c7d8b2d1ccf6c889e02561bd0fcb0  v1.0.0/aarch64-apple-darwin/redoc-agente
+283d1a3b8ffbe402d964eca8cbbf4c4764089a8b5b2ce1ea1e512350593abd3d  v1.0.0/x86_64-unknown-linux-gnu/redoc-agente
+cc1a589a2790d1e0f1dc56fcde90f6432a5717a5881547cd806a879e5af04623  v1.0.0/x86_64-unknown-linux-musl/redoc-agente
+a029ec6e6e69adf7a46397aa433887ed9fc3d41f68e6ee281d474a31490cee15  v1.0.0/aarch64-unknown-linux-gnu/redoc-agente
